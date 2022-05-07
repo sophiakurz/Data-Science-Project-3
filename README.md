@@ -1,15 +1,5 @@
-# Data-Science-Project-3
-
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[57]:
-
 
 import csv
-
-
-# In[58]:
 
 
 f_in = open('/Users/sreedhar/Downloads/U.S._Chronic_Disease_Indicators__CDI_.csv', 'r')
@@ -18,8 +8,6 @@ for line in f_in.readlines():
     total += 1
 print(total)
 
-
-# In[85]:
 
 
 f_in = open('/Users/sreedhar/Downloads/U.S._Chronic_Disease_Indicators__CDI_.csv', 'r')
@@ -32,8 +20,6 @@ for line in f_in.readlines():
 print(count)
 
 
-# In[84]:
-
 
 f_in = open('/Users/sreedhar/Downloads/U.S._Chronic_Disease_Indicators__CDI_.csv', 'r')
 count2 = 0
@@ -45,8 +31,6 @@ for line in f_in.readlines():
 print(count2)
 
 
-# In[83]:
-
 
 f_in = open('/Users/sreedhar/Downloads/U.S._Chronic_Disease_Indicators__CDI_.csv', 'r')
 count3 = 0
@@ -56,8 +40,6 @@ for line in f_in.readlines():
         count3 += 1
 print(count3)
 
-
-# In[62]:
 
 
 f_in = open('/Users/sreedhar/Downloads/U.S._Chronic_Disease_Indicators__CDI_.csv', 'r')
@@ -69,13 +51,6 @@ for line in f_in.readlines():
 print(count4)
 
 
-# In[63]:
-
-
-f_in.close()
-
-
-# In[ ]:
 
 
 
