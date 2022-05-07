@@ -1,0 +1,52 @@
+,Race/Ethnicity,,
+Outcome,"Black, non-Hispanic","White, non-Hispanic",Grand Total
+Hospitalization for acute myocardial infarction,954,954,1908
+Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years,1560,1560,3120
+Hospitalization for stroke,954,954,1908
+Mortality from cerebrovascular disease (stroke),1530,1530,3060
+Mortality from coronary heart disease,1530,1530,3060
+Mortality from diseases of the heart,1530,1530,3060
+Mortality from heart failure,1482,1530,3012
+Mortality from total cardiovascular diseases,1530,1530,3060
+Grand Total,11070,11118,22188
+,,,
+Observed Counts,Race/Ethnicity,,
+Outcome,"Black, non-Hispanic","White, non-Hispanic",
+Hospitalization for acute myocardial infarction,954,954,
+Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years,1560,1560,
+Hospitalization for stroke,954,954,
+Mortality from cerebrovascular disease (stroke),1530,1530,
+Mortality from coronary heart disease,1530,1530,
+Mortality from diseases of the heart,1530,1530,
+Mortality from heart failure,1482,1530,
+Mortality from total cardiovascular diseases,1530,1530,
+,,,
+,,,
+Expected Counts,Race/Ethnicity,,
+Outcome,"Black, non-Hispanic","White, non-Hispanic",
+Hospitalization for acute myocardial infarction,951.9361817,956.0638183,
+Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years,1556.625203,1563.374797,
+Hospitalization for stroke,951.9361817,956.0638183,
+Mortality from cerebrovascular disease (stroke),1526.690103,1533.309897,
+Mortality from coronary heart disease,1526.690103,1533.309897,
+Mortality from diseases of the heart,1526.690103,1533.309897,
+Mortality from heart failure,1502.742023,1509.257977,
+Mortality from total cardiovascular diseases,1526.690103,1533.309897,
+,,,
+,,,
+Chi-Square,Race/Ethnicity,,
+Outcome,"Black, non-Hispanic","White, non-Hispanic",
+Hospitalization for acute myocardial infarction,0.004474403,0.004455085,
+Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years,0.007316633,0.007285045,
+Hospitalization for stroke,0.004474403,0.004455085,
+Mortality from cerebrovascular disease (stroke),0.007175929,0.007144948,
+Mortality from coronary heart disease,0.007175929,0.007144948,
+Mortality from diseases of the heart,0.007175929,0.007144948,
+Mortality from heart failure,0.286297648,0.285061608,
+Mortality from total cardiovascular diseases,0.007175929,0.007144948,
+,,,
+,,,
+Chi-Square Statistic,0.66110342,,
+Degrees of Freedom,7,,
+Chi-Square Critical Value,14.06714045,,
+P-Value,0.998617077,,
